@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Rails on Docker
+comments: true
 ---
 
 
